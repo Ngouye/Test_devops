@@ -1,4 +1,6 @@
 Ajout de nouvelle nouvelle fonctionnalité
 ajout de  ma doc dfghjklmkjhgbjk,l
 ajout texte etant sur suite-doc-2
+<<<<<<< HEAD
 vbyuni,o;ij
+git t(hguheughu
